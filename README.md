@@ -40,6 +40,3 @@ def find_successor(tree: BinaryTree, node: BinaryTree) -> BinaryTree:
 root = BinaryTree(3)
 root.left = BinaryTree(9)
 root.right = BinaryTree(20)
-root = BinaryTree(3)
-root.left = BinaryTree(9)
-root.right = BinaryTree(20)
